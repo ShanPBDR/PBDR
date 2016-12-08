@@ -1,0 +1,1349 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\navgitor\»Ìº˛◊ ¡œ\¬„≈‹\stm32F4_bm\project\pbdr_STM32F4.uvproj
+Project File Date:  10/13/2016
+
+<h2>Output:</h2>
+Rebuild target 'STM32F4'
+assembling startup_stm32f4xx.s...
+compiling system_stm32f4xx.c...
+compiling misc.c...
+..\STM32F4_DRIVER\src\misc.c(76): error:  #5: cannot open source input file "misc.h": No such file or directory
+compiling stm32f4xx_adc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(106): error:  #5: cannot open source input file "stm32f4xx_adc.h": No such file or directory
+compiling stm32f4xx_can.c...
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(84): error:  #5: cannot open source input file "stm32f4xx_can.h": No such file or directory
+compiling stm32f4xx_crc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_crc.c(29): error:  #5: cannot open source input file "stm32f4xx_crc.h": No such file or directory
+compiling stm32f4xx_cryp.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(164): error:  #5: cannot open source input file "stm32f4xx_cryp.h": No such file or directory
+compiling stm32f4xx_cryp_aes.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp_aes.c(55): error:  #5: cannot open source input file "stm32f4xx_cryp.h": No such file or directory
+compiling stm32f4xx_cryp_des.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp_des.c(48): error:  #5: cannot open source input file "stm32f4xx_cryp.h": No such file or directory
+compiling stm32f4xx_cryp_tdes.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp_tdes.c(48): error:  #5: cannot open source input file "stm32f4xx_cryp.h": No such file or directory
+compiling stm32f4xx_dac.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(131): error:  #5: cannot open source input file "stm32f4xx_dac.h": No such file or directory
+compiling stm32f4xx_dbgmcu.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(29): error:  #5: cannot open source input file "stm32f4xx_dbgmcu.h": No such file or directory
+compiling stm32f4xx_dcmi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(86): error:  #5: cannot open source input file "stm32f4xx_dcmi.h": No such file or directory
+compiling stm32f4xx_dma2d.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(58): error:  #5: cannot open source input file "stm32f4xx_dma2d.h": No such file or directory
+compiling stm32f4xx_dma.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(124): error:  #5: cannot open source input file "stm32f4xx_dma.h": No such file or directory
+compiling stm32f4xx_exti.c...
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(67): error:  #5: cannot open source input file "stm32f4xx_exti.h": No such file or directory
+compiling stm32f4xx_flash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(72): error:  #5: cannot open source input file "stm32f4xx_flash.h": No such file or directory
+compiling stm32f4xx_fmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(36): error:  #5: cannot open source input file "stm32f4xx_fmc.h": No such file or directory
+compiling stm32f4xx_fsmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(35): error:  #5: cannot open source input file "stm32f4xx_fsmc.h": No such file or directory
+compiling stm32f4xx_gpio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(84): error:  #5: cannot open source input file "stm32f4xx_gpio.h": No such file or directory
+compiling stm32f4xx_hash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(123): error:  #5: cannot open source input file "stm32f4xx_hash.h": No such file or directory
+compiling stm32f4xx_hash_md5.c...
+..\STM32F4_DRIVER\src\stm32f4xx_hash_md5.c(47): error:  #5: cannot open source input file "stm32f4xx_hash.h": No such file or directory
+compiling stm32f4xx_hash_sha1.c...
+..\STM32F4_DRIVER\src\stm32f4xx_hash_sha1.c(47): error:  #5: cannot open source input file "stm32f4xx_hash.h": No such file or directory
+compiling stm32f4xx_i2c.c...
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(92): error:  #5: cannot open source input file "stm32f4xx_i2c.h": No such file or directory
+compiling stm32f4xx_iwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(85): error:  #5: cannot open source input file "stm32f4xx_iwdg.h": No such file or directory
+compiling stm32f4xx_ltdc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(76): error:  #5: cannot open source input file "stm32f4xx_ltdc.h": No such file or directory
+compiling stm32f4xx_pwr.c...
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(38): error:  #5: cannot open source input file "stm32f4xx_pwr.h": No such file or directory
+compiling stm32f4xx_rcc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(59): error:  #5: cannot open source input file "stm32f4xx_rcc.h": No such file or directory
+compiling stm32f4xx_rng.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(56): error:  #5: cannot open source input file "stm32f4xx_rng.h": No such file or directory
+compiling stm32f4xx_rtc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(285): error:  #5: cannot open source input file "stm32f4xx_rtc.h": No such file or directory
+compiling stm32f4xx_sai.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(126): error:  #5: cannot open source input file "stm32f4xx_sai.h": No such file or directory
+compiling stm32f4xx_sdio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(156): error:  #5: cannot open source input file "stm32f4xx_sdio.h": No such file or directory
+compiling stm32f4xx_spi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(159): error:  #5: cannot open source input file "stm32f4xx_spi.h": No such file or directory
+compiling stm32f4xx_syscfg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(50): error:  #5: cannot open source input file "stm32f4xx_syscfg.h": No such file or directory
+compiling stm32f4xx_tim.c...
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(119): error:  #5: cannot open source input file "stm32f4xx_tim.h": No such file or directory
+compiling stm32f4xx_usart.c...
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(92): error:  #5: cannot open source input file "stm32f4xx_usart.h": No such file or directory
+compiling stm32f4xx_wwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(84): error:  #5: cannot open source input file "stm32f4xx_wwdg.h": No such file or directory
+compiling stm32f4xx_flash_ramfunc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_flash_ramfunc.c(58): error:  #5: cannot open source input file "stm32f4xx_flash_ramfunc.h": No such file or directory
+compiling main.c...
+..\User\main.c(40): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+..\User\main.c(63): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+compiling stm32f4xx_it.c...
+Target not created
+Rebuild target 'STM32F4'
+assembling startup_stm32f4xx.s...
+compiling system_stm32f4xx.c...
+compiling misc.c...
+..\STM32F4_DRIVER\src\misc.c(121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(141): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(183): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(202): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(226): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_adc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(240): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(459): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(529): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(592): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(618): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(719): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(838): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(853): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(882): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(907): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(936): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(965): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(988): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1055): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1079): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1106): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1194): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1258): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1292): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1330): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1364): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1384): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1398): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1426): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1452): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1482): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1588): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1625): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1659): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1683): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1722): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_can.c...
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(169): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(201): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(337): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(495): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(525): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(580): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(653): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(752): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(801): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(825): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(879): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(957): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(983): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1044): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1069): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1089): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1292): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1334): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1433): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1493): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1596): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(238): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(370): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(406): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(684): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(802): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(831): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(889): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_cryp_aes.c...
+compiling stm32f4xx_cryp_des.c...
+compiling stm32f4xx_cryp_tdes.c...
+compiling stm32f4xx_dac.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(211): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(269): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(297): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(321): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(352): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(408): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(436): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(513): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(594): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(654): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(691): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dbgmcu.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(87): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(126): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(155): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dcmi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(148): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(226): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(264): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(302): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(325): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(380): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(420): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(489): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dma2d.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(137): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(276): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(308): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(405): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(494): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(543): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(568): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(635): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(668): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(724): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(761): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dma.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(324): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(517): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(553): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(635): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(650): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(734): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(764): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(806): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(833): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(948): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(982): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1011): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1076): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1177): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1257): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_exti.c...
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(130): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(230): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(252): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(290): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_flash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(280): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(295): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(317): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(338): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(475): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(544): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(625): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(692): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(747): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(790): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(832): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(874): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1011): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1053): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1103): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1133): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1170): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1206): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1239): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1277): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1298): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1453): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1486): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1516): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_fmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(139): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(144): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(149): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(151): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(152): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(168): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(191): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(242): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(252): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(298): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(304): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(309): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(372): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(377): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(386): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(405): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(445): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(452): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(496): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(504): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(508): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(516): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(520): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(536): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(544): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(548): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(556): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(560): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(580): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(585): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(640): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(657): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(676): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(734): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(739): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(744): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(807): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(809): error:  #20: identifier "FMC_Bank5_6" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(835): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(868): error:  #20: identifier "FMC_Bank5_6" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(876): error:  #20: identifier "FMC_Bank5_6" is undefined
+compiling stm32f4xx_fsmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(132): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(159): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(271): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(378): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(469): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(509): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(630): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(707): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(754): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(818): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(865): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(903): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(951): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_gpio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(130): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(207): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(282): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(328): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(352): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(371): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(395): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(415): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(436): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(458): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(483): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(499): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(585): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(194): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(294): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(468): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(492): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(584): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(616): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(654): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(673): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(704): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash_md5.c...
+compiling stm32f4xx_hash_sha1.c...
+compiling stm32f4xx_i2c.c...
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(140): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(187): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(316): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(376): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(426): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(454): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(506): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(531): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(555): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(581): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(605): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(631): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(669): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(697): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(721): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(759): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(772): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(803): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(834): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(858): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(880): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(913): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(937): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1077): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1165): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1212): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1342): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1378): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1436): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_iwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(135): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(155): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(168): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(237): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_ltdc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(156): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(241): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(265): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(323): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(341): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(370): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(489): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(552): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(580): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(634): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(978): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1006): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1032): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1053): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1089): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_pwr.c...
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(160): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(210): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(233): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(364): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(388): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(421): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(439): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(466): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(492): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(516): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(558): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(706): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(770): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(879): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(905): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rcc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(266): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(322): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(357): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(382): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(422): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(465): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(609): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(638): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(656): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(674): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(701): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(739): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(934): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(987): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1050): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1227): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1257): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1274): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1291): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1314): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1346): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1382): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1418): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1451): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1486): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1529): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1589): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1641): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1686): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1728): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1757): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1782): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1831): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1872): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1921): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1953): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1981): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2033): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2148): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2189): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2252): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2284): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rng.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(117): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(270): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(297): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(329): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(346): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(375): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rtc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(462): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(528): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(713): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(771): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(892): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(951): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1060): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1120): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1261): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1317): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1409): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1497): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1524): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1634): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1756): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1797): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1841): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1873): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1914): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1987): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2032): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2108): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2134): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2165): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2222): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2242): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2265): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2308): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2329): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2366): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2443): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2560): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2611): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2644): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2706): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_sai.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(185): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(210): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(277): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(325): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(435): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(487): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(515): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(539): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(570): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(592): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(657): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(673): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(849): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(884): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(925): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(953): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(997): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(1021): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(1054): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_sdio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(284): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(337): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(353): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(404): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(508): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(622): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(636): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(652): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(666): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(680): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(712): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(726): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(740): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(772): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(830): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(880): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(915): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(956): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(990): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_spi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(227): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(289): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(357): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(547): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(572): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(599): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(619): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(645): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(669): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(739): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(811): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(827): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(917): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(939): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(958): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(982): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1129): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1172): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1212): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1240): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1293): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_syscfg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(142): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(167): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(185): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(203): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_tim.c...
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(203): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(293): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(363): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(388): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(412): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(427): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(441): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(455): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(471): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(500): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(525): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(552): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(575): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(595): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(678): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(759): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(840): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(920): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1020): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1063): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1079): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1094): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1109): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1129): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1158): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1186): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1215): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1243): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1273): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1302): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1331): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1391): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1421): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1451): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1511): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1540): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1569): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1598): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1624): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1652): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1679): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1706): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1733): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1760): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1791): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1821): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1903): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1981): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2035): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2050): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2064): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2098): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2123): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2147): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2171): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2224): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2268): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2293): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2318): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2375): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2413): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2447): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2557): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2594): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2621): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2647): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2686): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2707): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2738): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2780): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2825): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2897): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2938): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2962): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2985): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3018): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3125): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3176): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_usart.c...
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(190): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(254): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(430): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(456): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(477): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(503): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(560): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(576): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(648): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(675): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(744): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(762): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(786): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(839): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(923): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(942): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(967): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1038): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1056): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1236): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1299): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1347): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1456): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_wwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(158): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(178): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(211): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(242): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_flash_ramfunc.c...
+compiling main.c...
+..\User\main.c(40): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+..\User\main.c(63): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+compiling stm32f4xx_it.c...
+Target not created
+Clean started: Project: 'pbdr_STM32F4'
+   deleting intermediate output files for target 'STM32F4'
+Rebuild target 'STM32F4'
+assembling startup_stm32f4xx.s...
+compiling system_stm32f4xx.c...
+compiling misc.c...
+..\STM32F4_DRIVER\src\misc.c(121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(141): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(183): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(202): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\misc.c(226): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_adc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(240): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(459): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(529): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(592): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(618): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(719): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(838): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(853): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(882): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(907): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(936): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(965): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(988): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1055): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1079): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1106): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1194): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1258): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1292): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1330): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1364): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1384): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1398): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1426): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1452): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1482): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1588): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1625): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1659): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1683): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_adc.c(1722): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_can.c...
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(169): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(201): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(337): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(495): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(525): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(580): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(653): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(752): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(801): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(825): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(879): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(957): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(983): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1044): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1069): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1089): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1292): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1334): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1433): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1493): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_can.c(1596): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(238): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(370): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(406): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(684): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(802): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(831): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_cryp.c(889): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_cryp_aes.c...
+compiling stm32f4xx_cryp_des.c...
+compiling stm32f4xx_cryp_tdes.c...
+compiling stm32f4xx_dac.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(211): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(269): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(297): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(321): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(352): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(408): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(436): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(513): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(594): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(654): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dac.c(691): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dbgmcu.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(87): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(126): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dbgmcu.c(155): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dcmi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(148): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(226): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(264): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(302): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(325): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(380): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(420): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dcmi.c(489): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dma2d.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(137): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(276): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(308): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(405): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(494): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(543): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(568): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(635): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(668): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(724): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma2d.c(761): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dma.c...
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(324): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(517): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(553): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(635): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(650): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(734): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(764): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(806): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(833): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(948): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(982): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1011): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1076): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1177): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_dma.c(1257): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_exti.c...
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(130): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(230): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(252): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_exti.c(290): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_flash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(280): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(295): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(317): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(338): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(475): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(544): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(625): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(692): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(747): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(790): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(832): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(874): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1011): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1053): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1103): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1133): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1170): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1206): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1239): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1277): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1298): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1453): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1486): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_flash.c(1516): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_fmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(139): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(144): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(149): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(151): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(152): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(168): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(191): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(242): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(252): error:  #20: identifier "FMC_Bank1E" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(298): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(304): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(309): error:  #20: identifier "FMC_Bank1" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(372): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(377): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(386): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(405): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(445): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(452): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(496): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(504): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(508): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(516): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(520): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(536): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(544): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(548): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(556): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(560): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(580): error:  #20: identifier "FMC_Bank2" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(585): error:  #20: identifier "FMC_Bank3" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(640): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(657): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(676): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(734): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(739): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(744): error:  #20: identifier "FMC_Bank4" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(807): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(809): error:  #20: identifier "FMC_Bank5_6" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(835): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(868): error:  #20: identifier "FMC_Bank5_6" is undefined
+..\STM32F4_DRIVER\src\stm32f4xx_fmc.c(876): error:  #20: identifier "FMC_Bank5_6" is undefined
+compiling stm32f4xx_fsmc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(132): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(159): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(271): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(378): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(469): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(509): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(630): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(707): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(754): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(818): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(865): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(903): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_fsmc.c(951): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_gpio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(130): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(207): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(282): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(328): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(352): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(371): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(395): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(415): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(436): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(458): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(483): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(499): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_gpio.c(585): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash.c...
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(194): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(294): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(468): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(492): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(584): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(616): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(654): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(673): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_hash.c(704): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash_md5.c...
+compiling stm32f4xx_hash_sha1.c...
+compiling stm32f4xx_i2c.c...
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(140): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(187): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(316): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(345): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(376): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(426): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(454): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(506): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(531): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(555): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(581): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(605): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(631): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(669): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(697): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(721): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(759): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(772): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(803): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(834): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(858): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(880): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(913): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(937): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1077): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1165): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1212): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1342): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1378): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_i2c.c(1436): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_iwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(135): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(155): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(168): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_iwdg.c(237): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_ltdc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(156): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(241): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(265): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(323): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(341): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(370): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(489): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(552): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(580): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(634): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(978): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1006): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1032): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1053): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_ltdc.c(1089): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_pwr.c...
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(160): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(210): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(233): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(267): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(364): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(388): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(421): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(439): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(466): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(492): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(516): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(558): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(706): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(770): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(879): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_pwr.c(905): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rcc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(266): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(322): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(357): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(382): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(422): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(465): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(609): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(638): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(656): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(674): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(701): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(739): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(934): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(987): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1050): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1227): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1257): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1274): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1291): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1314): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1346): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1382): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1418): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1451): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1486): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1529): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1589): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1641): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1686): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1728): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1757): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1782): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1831): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1872): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1921): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1953): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(1981): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2033): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2148): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2189): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2252): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rcc.c(2284): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rng.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(117): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(270): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(297): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(329): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(346): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rng.c(375): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rtc.c...
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(462): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(528): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(713): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(771): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(892): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(951): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1060): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1120): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1261): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1317): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1409): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1497): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1524): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1561): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1634): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1756): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1797): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1841): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1873): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1914): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(1987): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2032): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2108): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2134): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2165): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2199): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2222): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2242): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2265): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2308): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2329): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2366): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2402): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2443): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2560): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2611): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2644): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2667): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_rtc.c(2706): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_sai.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(185): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(210): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(277): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(325): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(435): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(487): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(515): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(539): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(570): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(592): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(657): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(673): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(849): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(884): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(925): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(953): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(997): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(1021): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sai.c(1054): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_sdio.c...
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(284): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(337): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(353): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(404): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(470): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(508): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(622): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(636): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(652): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(666): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(680): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(712): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(726): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(740): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(772): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(830): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(880): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(915): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(956): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_sdio.c(990): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_spi.c...
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(227): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(289): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(357): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(547): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(572): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(599): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(619): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(645): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(669): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(700): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(739): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(811): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(827): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(917): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(939): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(958): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(982): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1129): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1172): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1212): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1240): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_spi.c(1293): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_syscfg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(121): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(142): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(167): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(185): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_syscfg.c(203): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_tim.c...
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(203): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(293): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(363): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(388): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(412): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(427): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(441): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(455): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(471): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(500): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(525): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(552): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(575): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(595): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(678): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(759): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(840): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(920): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1020): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1063): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1079): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1094): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1109): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1129): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1158): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1186): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1215): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1243): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1273): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1302): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1331): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1391): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1421): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1451): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1481): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1511): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1540): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1569): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1598): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1624): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1652): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1679): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1706): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1733): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1760): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1791): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1821): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1903): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(1981): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2035): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2050): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2064): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2098): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2123): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2147): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2171): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2224): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2268): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2293): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2318): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2375): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2413): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2447): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2488): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2518): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2557): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2594): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2621): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2647): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2686): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2707): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2738): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2780): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2825): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2897): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2938): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2962): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(2985): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3018): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3078): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3125): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_tim.c(3176): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_usart.c...
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(190): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(254): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(430): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(456): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(477): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(503): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(560): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(576): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(648): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(675): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(744): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(762): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(786): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(839): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(923): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(942): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(967): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1038): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1056): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1236): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1299): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1347): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1383): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_usart.c(1456): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_wwdg.c...
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(158): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(178): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(211): warning:  #223-D: function "assert_param" declared implicitly
+..\STM32F4_DRIVER\src\stm32f4xx_wwdg.c(242): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_flash_ramfunc.c...
+compiling main.c...
+..\User\main.c(40): error:  #20: identifier "RCC_ClocksTypeDef" is undefined
+..\User\main.c(63): warning:  #223-D: function "RCC_GetClocksFreq" declared implicitly
+compiling stm32f4xx_it.c...
+Target not created
