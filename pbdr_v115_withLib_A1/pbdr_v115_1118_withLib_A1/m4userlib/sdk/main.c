@@ -11,8 +11,8 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
-#define LED1             GPIO_Pin_6
-#define LED2             GPIO_Pin_7
+#define LED1             GPIO_Pin_4
+#define LED2             GPIO_Pin_5
 #define LED_PORT        GPIOB
 #define LED_GPIO_CLOCK  RCC_AHB1Periph_GPIOB
 /* Private macro -------------------------------------------------------------*/
